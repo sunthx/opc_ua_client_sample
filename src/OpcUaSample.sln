@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpcUaSample", "OpcUaSample\OpcUaSample.csproj", "{F6F241C5-F398-4136-9D99-D02408FCAA3F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FermentationTankOpcControlSample", "FermentationTankOpcControlSample\FermentationTankOpcControlSample.csproj", "{05C6AD05-CDDB-4F28-ADA1-10072BB25AAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbrOpcDemo", "DbrOpcDemo\DbrOpcDemo.csproj", "{CEB54DFC-CB55-47D3-99A6-DC46149C56F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,13 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F6F241C5-F398-4136-9D99-D02408FCAA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6F241C5-F398-4136-9D99-D02408FCAA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6F241C5-F398-4136-9D99-D02408FCAA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6F241C5-F398-4136-9D99-D02408FCAA3F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{05C6AD05-CDDB-4F28-ADA1-10072BB25AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{05C6AD05-CDDB-4F28-ADA1-10072BB25AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{05C6AD05-CDDB-4F28-ADA1-10072BB25AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{05C6AD05-CDDB-4F28-ADA1-10072BB25AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB54DFC-CB55-47D3-99A6-DC46149C56F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB54DFC-CB55-47D3-99A6-DC46149C56F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB54DFC-CB55-47D3-99A6-DC46149C56F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB54DFC-CB55-47D3-99A6-DC46149C56F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

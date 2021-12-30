@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("OpcUaSample")]
+[assembly: AssemblyTitle("DbrOpcDemo")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("OpcUaSample")]
+[assembly: AssemblyProduct("DbrOpcDemo")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("F6F241C5-F398-4136-9D99-D02408FCAA3F")]
+[assembly: Guid("CEB54DFC-CB55-47D3-99A6-DC46149C56F9")]
 
 // Version information for an assembly consists of the following four values:
 //
