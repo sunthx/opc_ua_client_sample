@@ -1,4 +1,4 @@
-﻿namespace DbrOpcDemo
+﻿namespace OpcUaSample
 {
     partial class OpcForm
     {

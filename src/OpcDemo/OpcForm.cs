@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Opc.Ua.Client;
 
-namespace DbrOpcDemo
+namespace OpcUaSample
 {
     public partial class OpcForm : Form
     {

@@ -5,7 +5,7 @@ using Opc.Ua;
 using Opc.Ua.Client;
 using Opc.Ua.Configuration;
 
-namespace DbrOpcDemo
+namespace OpcUaSample
 {
     internal class Program
     {
