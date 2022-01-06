@@ -18,6 +18,7 @@ namespace DbrOpcDemo
             { "OP", "ns=2,i=11" }
         };
         
+        [STAThread]
         public static async Task Main(string[] args)
         {
             var instance = new ApplicationInstance
@@ -91,6 +92,10 @@ namespace DbrOpcDemo
             );
 
             // use the session to read/write/call/sub/pub/...
+            var form = new OpcForm(session);
+            form.ShowDialog();
+
+            session.Close();
         }
     }
 }
